@@ -292,17 +292,9 @@
         "digital_sm1l1m4_1",
         "digital_sm1l1m4_2",
         "digital_sm1l1m4_hatman_1",
-        "digital_sm1l1m4_hatman_2",
-        "digital_sm1l1m4_hatman_3",
         "digital_sm1l1m5_hatman_1",
-        "digital_sm1l1m5_hatman_2",
-        "digital_sm1l1m5_hatman_3",
         "digital_sm1l1m5_Alexander_1",
-        "digital_sm1l1m5_Alexander_2",
-        "digital_sm1l1m5_Alexander_3",
         "digital_sm1l1m5_Hans_1",
-        "digital_sm1l1m5_Hans_2",
-        "digital_sm1l1m5_Hans_3",
         "digital_sm1l1m6_Hans_doc",
         "digital_sm1l1m6_Hatman_doc",
         "digital_sm1l1m6_Alexander_doc",
@@ -2967,26 +2959,6 @@
       "order": 31,
       "type": "text"
     },
-    "digital_sm1l1m4_hatman_2": {
-      "categoryId": "digital",
-      "firstLvId": "digital_sm1l1m4_hatman_2",
-      "itemIds": [
-        "nar_sm1l1m4_hatman_2"
-      ],
-      "name": "哈特曼记录-其一",
-      "order": 32,
-      "type": "text"
-    },
-    "digital_sm1l1m4_hatman_3": {
-      "categoryId": "digital",
-      "firstLvId": "digital_sm1l1m4_hatman_3",
-      "itemIds": [
-        "nar_sm1l1m4_hatman_3"
-      ],
-      "name": "哈特曼记录-其一",
-      "order": 33,
-      "type": "text"
-    },
     "digital_sm1l1m5_hatman_1": {
       "categoryId": "digital",
       "firstLvId": "digital_sm1l1m5_hatman_1",
@@ -2995,26 +2967,6 @@
       ],
       "name": "哈特曼记录-其二",
       "order": 34,
-      "type": "text"
-    },
-    "digital_sm1l1m5_hatman_2": {
-      "categoryId": "digital",
-      "firstLvId": "digital_sm1l1m5_hatman_2",
-      "itemIds": [
-        "nar_sm1l1m5_hatman_2"
-      ],
-      "name": "哈特曼记录-其二",
-      "order": 35,
-      "type": "text"
-    },
-    "digital_sm1l1m5_hatman_3": {
-      "categoryId": "digital",
-      "firstLvId": "digital_sm1l1m5_hatman_3",
-      "itemIds": [
-        "nar_sm1l1m5_hatman_3"
-      ],
-      "name": "哈特曼记录-其二",
-      "order": 36,
       "type": "text"
     },
     "digital_sm1l1m5_Alexander_1": {
@@ -3027,26 +2979,6 @@
       "order": 37,
       "type": "text"
     },
-    "digital_sm1l1m5_Alexander_2": {
-      "categoryId": "digital",
-      "firstLvId": "digital_sm1l1m5_Alexander_2",
-      "itemIds": [
-        "nar_sm1l1m5_Alexander_2"
-      ],
-      "name": "亚历山大记录-其一",
-      "order": 38,
-      "type": "text"
-    },
-    "digital_sm1l1m5_Alexander_3": {
-      "categoryId": "digital",
-      "firstLvId": "digital_sm1l1m5_Alexander_3",
-      "itemIds": [
-        "nar_sm1l1m5_Alexander_3"
-      ],
-      "name": "亚历山大记录-其一",
-      "order": 39,
-      "type": "text"
-    },
     "digital_sm1l1m5_Hans_1": {
       "categoryId": "digital",
       "firstLvId": "digital_sm1l1m5_Hans_1",
@@ -3055,26 +2987,6 @@
       ],
       "name": "老汉斯记录-其一",
       "order": 40,
-      "type": "text"
-    },
-    "digital_sm1l1m5_Hans_2": {
-      "categoryId": "digital",
-      "firstLvId": "digital_sm1l1m5_Hans_2",
-      "itemIds": [
-        "nar_sm1l1m5_Hans_2"
-      ],
-      "name": "老汉斯记录-其一",
-      "order": 41,
-      "type": "text"
-    },
-    "digital_sm1l1m5_Hans_3": {
-      "categoryId": "digital",
-      "firstLvId": "digital_sm1l1m5_Hans_3",
-      "itemIds": [
-        "nar_sm1l1m5_Hans_3"
-      ],
-      "name": "老汉斯记录-其一",
-      "order": 42,
       "type": "text"
     },
     "digital_sm1l1m6_Hans_doc": {
@@ -7219,46 +7131,10 @@
       "title": "哈特曼记录：其一",
       "type": "text"
     },
-    "nar_sm1l1m4_hatman_2": {
-      "categoryId": "digital",
-      "firstLvId": "digital_sm1l1m4_hatman_2",
-      "id": "nar_sm1l1m4_hatman_2",
-      "name": "哈特曼记录·其一",
-      "order": 1,
-      "title": "哈特曼记录：其一",
-      "type": "text"
-    },
-    "nar_sm1l1m4_hatman_3": {
-      "categoryId": "digital",
-      "firstLvId": "digital_sm1l1m4_hatman_3",
-      "id": "nar_sm1l1m4_hatman_3",
-      "name": "哈特曼记录·其一",
-      "order": 1,
-      "title": "哈特曼记录：其一",
-      "type": "text"
-    },
     "nar_sm1l1m5_hatman_1": {
       "categoryId": "digital",
       "firstLvId": "digital_sm1l1m5_hatman_1",
       "id": "nar_sm1l1m5_hatman_1",
-      "name": "哈特曼记录·其二",
-      "order": 1,
-      "title": "哈特曼记录：其二",
-      "type": "text"
-    },
-    "nar_sm1l1m5_hatman_2": {
-      "categoryId": "digital",
-      "firstLvId": "digital_sm1l1m5_hatman_2",
-      "id": "nar_sm1l1m5_hatman_2",
-      "name": "哈特曼记录·其二",
-      "order": 1,
-      "title": "哈特曼记录：其二",
-      "type": "text"
-    },
-    "nar_sm1l1m5_hatman_3": {
-      "categoryId": "digital",
-      "firstLvId": "digital_sm1l1m5_hatman_3",
-      "id": "nar_sm1l1m5_hatman_3",
       "name": "哈特曼记录·其二",
       "order": 1,
       "title": "哈特曼记录：其二",
@@ -7273,46 +7149,10 @@
       "title": "亚历山大记录：其一",
       "type": "text"
     },
-    "nar_sm1l1m5_Alexander_2": {
-      "categoryId": "digital",
-      "firstLvId": "digital_sm1l1m5_Alexander_2",
-      "id": "nar_sm1l1m5_Alexander_2",
-      "name": "亚历山大记录·其一",
-      "order": 1,
-      "title": "亚历山大记录：其一",
-      "type": "text"
-    },
-    "nar_sm1l1m5_Alexander_3": {
-      "categoryId": "digital",
-      "firstLvId": "digital_sm1l1m5_Alexander_3",
-      "id": "nar_sm1l1m5_Alexander_3",
-      "name": "亚历山大记录·其一",
-      "order": 1,
-      "title": "亚历山大记录：其一",
-      "type": "text"
-    },
     "nar_sm1l1m5_Hans_1": {
       "categoryId": "digital",
       "firstLvId": "digital_sm1l1m5_Hans_1",
       "id": "nar_sm1l1m5_Hans_1",
-      "name": "老汉斯记录·其一",
-      "order": 1,
-      "title": "老汉斯记录：其一",
-      "type": "text"
-    },
-    "nar_sm1l1m5_Hans_2": {
-      "categoryId": "digital",
-      "firstLvId": "digital_sm1l1m5_Hans_2",
-      "id": "nar_sm1l1m5_Hans_2",
-      "name": "老汉斯记录·其一",
-      "order": 1,
-      "title": "老汉斯记录：其一",
-      "type": "text"
-    },
-    "nar_sm1l1m5_Hans_3": {
-      "categoryId": "digital",
-      "firstLvId": "digital_sm1l1m5_Hans_3",
-      "id": "nar_sm1l1m5_Hans_3",
       "name": "老汉斯记录·其一",
       "order": 1,
       "title": "老汉斯记录：其一",
