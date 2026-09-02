@@ -55,7 +55,8 @@
         "media_map02_12144",
         "media_map02_13005",
         "media_map02_14008",
-        "media_map02_14032"
+        "media_map02_14032",
+        "media_map02_15012"
       ]
     },
     "paper": {
@@ -280,7 +281,29 @@
         "document_v1d4_8",
         "document_v1d4_9",
         "document_v1d4_10",
-        "document_v1d4_11"
+        "document_v1d4_11",
+        "paper_map02_15001",
+        "paper_map02_15002",
+        "paper_map02_15003",
+        "paper_map02_15004",
+        "paper_map02_15005",
+        "paper_map02_15006",
+        "paper_map02_15007",
+        "paper_map02_15008",
+        "paper_map02_15009",
+        "paper_map02_15010",
+        "paper_map02_15011",
+        "paper_map02_15013",
+        "paper_map02_15014",
+        "paper_map02_15015",
+        "paper_map02_15016",
+        "paper_map02_15017",
+        "paper_map02_15018",
+        "paper_map02_15021",
+        "paper_map02_15022",
+        "paper_map02_15023",
+        "paper_map02_15024",
+        "paper_map02_15025"
       ]
     },
     "digital": {
@@ -360,7 +383,8 @@
         "digital_map02_14010",
         "digital_map02_14011",
         "digital_map02_14016",
-        "digital_map02_14024"
+        "digital_map02_14024",
+        "digital_map02_15019"
       ]
     },
     "collection": {
@@ -394,7 +418,8 @@
         "collection_map02_95",
         "collection_map02_12136",
         "collection_map02_13006",
-        "collection_map02_13007"
+        "collection_map02_13007",
+        "collection_map02_15020"
       ]
     },
     "document": {
@@ -458,7 +483,10 @@
         "document_v1d4_5",
         "document_v1d4_2",
         "document_v1d4_3",
-        "document_v1d4_4"
+        "document_v1d4_4",
+        "document_v1d5_1",
+        "document_v1d5_2",
+        "document_v1d5_3"
       ]
     },
     "report": {
@@ -481,7 +509,8 @@
         "report_map02_research6_7",
         "report_map02_research7_12",
         "report_map02_research9_1",
-        "report_map02_research12_1"
+        "report_map02_research12_1",
+        "report_map02_research13_1"
       ]
     }
   },
@@ -725,6 +754,16 @@
       ],
       "name": "牺牲应龙的留声",
       "order": 201040029,
+      "type": "multi_media"
+    },
+    "media_map02_15012": {
+      "categoryId": "media",
+      "firstLvId": "media_map02_15012",
+      "itemIds": [
+        "nar_media_map02_15012_1"
+      ],
+      "name": "与雪祀的谈话",
+      "order": 201050012,
       "type": "multi_media"
     },
     "paper_sm1l5m1_1": {
@@ -2929,6 +2968,230 @@
       "order": 201042207,
       "type": "text"
     },
+    "paper_map02_15001": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_15001",
+      "itemIds": [
+        "nar_paper_map02_15001_1"
+      ],
+      "name": "字迹扭曲的留言",
+      "order": 201050001,
+      "type": "text"
+    },
+    "paper_map02_15002": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_15002",
+      "itemIds": [
+        "nar_paper_map02_15002_1"
+      ],
+      "name": "某人的记录",
+      "order": 201050002,
+      "type": "text"
+    },
+    "paper_map02_15003": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_15003",
+      "itemIds": [
+        "nar_paper_map02_15003_1"
+      ],
+      "name": "安德烈的潦草留言",
+      "order": 201050003,
+      "type": "text"
+    },
+    "paper_map02_15004": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_15004",
+      "itemIds": [
+        "nar_paper_map02_15004_1",
+        "nar_paper_map02_15004_2",
+        "nar_paper_map02_15004_3"
+      ],
+      "name": "《大炎鬼怪志异·补》",
+      "order": 201050004,
+      "type": "text"
+    },
+    "paper_map02_15005": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_15005",
+      "itemIds": [
+        "nar_paper_map02_15005_1"
+      ],
+      "name": "字迹工整的留言",
+      "order": 201050005,
+      "type": "text"
+    },
+    "paper_map02_15006": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_15006",
+      "itemIds": [
+        "nar_paper_map02_15006_1"
+      ],
+      "name": "陈旧的留言",
+      "order": 201050006,
+      "type": "text"
+    },
+    "paper_map02_15007": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_15007",
+      "itemIds": [
+        "nar_paper_map02_15007_1"
+      ],
+      "name": "笔记残页",
+      "order": 201050007,
+      "type": "text"
+    },
+    "paper_map02_15008": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_15008",
+      "itemIds": [
+        "nar_paper_map02_15008_1"
+      ],
+      "name": "写生者的惊叹",
+      "order": 201050008,
+      "type": "text"
+    },
+    "paper_map02_15009": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_15009",
+      "itemIds": [
+        "nar_paper_map02_15009_1",
+        "nar_paper_map02_15009_2",
+        "nar_paper_map02_15009_3"
+      ],
+      "name": "检查者的留言",
+      "order": 201050009,
+      "type": "text"
+    },
+    "paper_map02_15010": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_15010",
+      "itemIds": [
+        "nar_paper_map02_15010_1"
+      ],
+      "name": "绝望的笔记",
+      "order": 201050010,
+      "type": "text"
+    },
+    "paper_map02_15011": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_15011",
+      "itemIds": [
+        "nar_paper_map02_15011_1"
+      ],
+      "name": "应龙队员的留言",
+      "order": 201050011,
+      "type": "text"
+    },
+    "paper_map02_15013": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_15013",
+      "itemIds": [
+        "nar_paper_map02_15013_1"
+      ],
+      "name": "遗落在树枝下的纸条",
+      "order": 201050013,
+      "type": "text"
+    },
+    "paper_map02_15014": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_15014",
+      "itemIds": [
+        "nar_paper_map02_15014_1"
+      ],
+      "name": "雪祀的信件草稿",
+      "order": 201050014,
+      "type": "text"
+    },
+    "paper_map02_15015": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_15015",
+      "itemIds": [
+        "nar_paper_map02_15015_1"
+      ],
+      "name": "雪祀的记梦手稿",
+      "order": 201050015,
+      "type": "text"
+    },
+    "paper_map02_15016": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_15016",
+      "itemIds": [
+        "nar_paper_map02_15016_1"
+      ],
+      "name": "老雪祀的研究笔记",
+      "order": 201050016,
+      "type": "text"
+    },
+    "paper_map02_15017": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_15017",
+      "itemIds": [
+        "nar_paper_map02_15017_1"
+      ],
+      "name": "记录心得的纸",
+      "order": 201050017,
+      "type": "text"
+    },
+    "paper_map02_15018": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_15018",
+      "itemIds": [
+        "nar_paper_map02_15018_1"
+      ],
+      "name": "安德烈的研究笔记",
+      "order": 201050018,
+      "type": "text"
+    },
+    "paper_map02_15021": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_15021",
+      "itemIds": [
+        "nar_paper_map02_15021_1"
+      ],
+      "name": "经过提弗洛斯翻译的手稿",
+      "order": 201050021,
+      "type": "text"
+    },
+    "paper_map02_15022": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_15022",
+      "itemIds": [
+        "nar_paper_map02_15022_1"
+      ],
+      "name": "最后的笔记",
+      "order": 201050022,
+      "type": "text"
+    },
+    "paper_map02_15023": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_15023",
+      "itemIds": [
+        "nar_paper_map02_15023_1"
+      ],
+      "name": "最后的日志",
+      "order": 201050023,
+      "type": "text"
+    },
+    "paper_map02_15024": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_15024",
+      "itemIds": [
+        "nar_paper_map02_15024_1"
+      ],
+      "name": "另一份经过提弗洛斯翻译的手稿",
+      "order": 201050024,
+      "type": "text"
+    },
+    "paper_map02_15025": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_15025",
+      "itemIds": [
+        "nar_paper_map02_15025_1"
+      ],
+      "name": "字迹潦草的纸条",
+      "order": 201050025,
+      "type": "text"
+    },
     "digital_sm1l1m4_1": {
       "categoryId": "digital",
       "firstLvId": "digital_sm1l1m4_1",
@@ -3661,6 +3924,16 @@
       "order": 201040021,
       "type": "text"
     },
+    "digital_map02_15019": {
+      "categoryId": "digital",
+      "firstLvId": "digital_map02_15019",
+      "itemIds": [
+        "nar_digital_map02_15019_1"
+      ],
+      "name": "一份计划书",
+      "order": 201050019,
+      "type": "text"
+    },
     "collection_gm01m17": {
       "categoryId": "collection",
       "firstLvId": "collection_gm01m17",
@@ -3915,6 +4188,16 @@
       ],
       "name": "弭弗的拳套",
       "order": 201030007,
+      "type": "text"
+    },
+    "collection_map02_15020": {
+      "categoryId": "collection",
+      "firstLvId": "collection_map02_15020",
+      "itemIds": [
+        "nar_collection_map02_15020_1"
+      ],
+      "name": "绘在墙壁上的林地地图",
+      "order": 201050020,
       "type": "text"
     },
     "document_v0d8_1": {
@@ -4477,6 +4760,36 @@
       "order": 1040004,
       "type": "document"
     },
+    "document_v1d5_1": {
+      "categoryId": "document",
+      "firstLvId": "document_v1d5_1",
+      "itemIds": [
+        "nar_document_v1d5_1_1"
+      ],
+      "name": "萨米维格",
+      "order": 1050001,
+      "type": "document"
+    },
+    "document_v1d5_2": {
+      "categoryId": "document",
+      "firstLvId": "document_v1d5_2",
+      "itemIds": [
+        "nar_document_v1d5_2_1"
+      ],
+      "name": "巨兽",
+      "order": 1050002,
+      "type": "document"
+    },
+    "document_v1d5_3": {
+      "categoryId": "document",
+      "firstLvId": "document_v1d5_3",
+      "itemIds": [
+        "nar_document_v1d5_3_1"
+      ],
+      "name": "兽主",
+      "order": 1050003,
+      "type": "document"
+    },
     "report_map01_research1_17": {
       "categoryId": "report",
       "firstLvId": "report_map01_research1_17",
@@ -4625,6 +4938,16 @@
       ],
       "name": "关于旧日幸存者的调查报告",
       "order": 201043201,
+      "type": "document"
+    },
+    "report_map02_research13_1": {
+      "categoryId": "report",
+      "firstLvId": "report_map02_research13_1",
+      "itemIds": [
+        "nar_report_map02_research13_1_1"
+      ],
+      "name": "有关雪松林运作模式的调查报告",
+      "order": 201053401,
       "type": "document"
     }
   },
@@ -4852,6 +5175,15 @@
       "name": "牺牲应龙的留声",
       "order": 1,
       "title": "牺牲应龙的留声",
+      "type": "multi_media"
+    },
+    "nar_media_map02_15012_1": {
+      "categoryId": "media",
+      "firstLvId": "media_map02_15012",
+      "id": "nar_media_map02_15012_1",
+      "name": "与雪祀的谈话",
+      "order": 1,
+      "title": "与雪祀的谈话",
       "type": "multi_media"
     },
     "nar_sm1l5m1_1": {
@@ -7104,6 +7436,240 @@
       "title": "像是遗书的信件",
       "type": "text"
     },
+    "nar_paper_map02_15001_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_15001",
+      "id": "nar_paper_map02_15001_1",
+      "name": "字迹扭曲的留言",
+      "order": 1,
+      "title": "字迹扭曲的留言",
+      "type": "text"
+    },
+    "nar_paper_map02_15002_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_15002",
+      "id": "nar_paper_map02_15002_1",
+      "name": "某人的记录",
+      "order": 1,
+      "title": "某人的记录",
+      "type": "text"
+    },
+    "nar_paper_map02_15003_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_15003",
+      "id": "nar_paper_map02_15003_1",
+      "name": "安德烈的潦草留言",
+      "order": 1,
+      "title": "安德烈的潦草留言",
+      "type": "text"
+    },
+    "nar_paper_map02_15004_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_15004",
+      "id": "nar_paper_map02_15004_1",
+      "name": "《大炎鬼怪志异》",
+      "order": 1,
+      "title": "《大炎鬼怪志异》",
+      "type": "text"
+    },
+    "nar_paper_map02_15004_2": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_15004",
+      "id": "nar_paper_map02_15004_2",
+      "name": "《大炎鬼怪志异·补》（一）",
+      "order": 2,
+      "title": "《大炎鬼怪志异·补》（一）",
+      "type": "text"
+    },
+    "nar_paper_map02_15004_3": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_15004",
+      "id": "nar_paper_map02_15004_3",
+      "name": "《大炎鬼怪志异·补》（二）",
+      "order": 3,
+      "title": "《大炎鬼怪志异·补》（二）",
+      "type": "text"
+    },
+    "nar_paper_map02_15005_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_15005",
+      "id": "nar_paper_map02_15005_1",
+      "name": "字迹工整的留言",
+      "order": 1,
+      "title": "字迹工整的留言",
+      "type": "text"
+    },
+    "nar_paper_map02_15006_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_15006",
+      "id": "nar_paper_map02_15006_1",
+      "name": "陈旧的留言",
+      "order": 1,
+      "title": "陈旧的留言",
+      "type": "text"
+    },
+    "nar_paper_map02_15007_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_15007",
+      "id": "nar_paper_map02_15007_1",
+      "name": "笔记残页",
+      "order": 1,
+      "title": "笔记残页",
+      "type": "text"
+    },
+    "nar_paper_map02_15008_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_15008",
+      "id": "nar_paper_map02_15008_1",
+      "name": "写生者的惊叹",
+      "order": 1,
+      "title": "写生者的惊叹",
+      "type": "text"
+    },
+    "nar_paper_map02_15009_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_15009",
+      "id": "nar_paper_map02_15009_1",
+      "name": "检查者的留言（一）",
+      "order": 1,
+      "title": "检查者的留言（一）",
+      "type": "text"
+    },
+    "nar_paper_map02_15009_2": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_15009",
+      "id": "nar_paper_map02_15009_2",
+      "name": "检查者的留言（二）",
+      "order": 2,
+      "title": "检查者的留言（二）",
+      "type": "text"
+    },
+    "nar_paper_map02_15009_3": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_15009",
+      "id": "nar_paper_map02_15009_3",
+      "name": "检查者的留言（三）",
+      "order": 3,
+      "title": "检查者的留言（三）",
+      "type": "text"
+    },
+    "nar_paper_map02_15010_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_15010",
+      "id": "nar_paper_map02_15010_1",
+      "name": "绝望的笔记",
+      "order": 1,
+      "title": "绝望的笔记",
+      "type": "text"
+    },
+    "nar_paper_map02_15011_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_15011",
+      "id": "nar_paper_map02_15011_1",
+      "name": "应龙队员的留言",
+      "order": 1,
+      "title": "应龙队员的留言",
+      "type": "text"
+    },
+    "nar_paper_map02_15013_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_15013",
+      "id": "nar_paper_map02_15013_1",
+      "name": "遗落在树枝下的纸条",
+      "order": 1,
+      "title": "遗落在树枝下的纸条",
+      "type": "text"
+    },
+    "nar_paper_map02_15014_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_15014",
+      "id": "nar_paper_map02_15014_1",
+      "name": "雪祀的信件草稿",
+      "order": 1,
+      "title": "雪祀的信件草稿",
+      "type": "text"
+    },
+    "nar_paper_map02_15015_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_15015",
+      "id": "nar_paper_map02_15015_1",
+      "name": "雪祀的记梦手稿",
+      "order": 1,
+      "title": "雪祀的记梦手稿",
+      "type": "text"
+    },
+    "nar_paper_map02_15016_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_15016",
+      "id": "nar_paper_map02_15016_1",
+      "name": "老雪祀的研究笔记",
+      "order": 1,
+      "title": "老雪祀的研究笔记",
+      "type": "text"
+    },
+    "nar_paper_map02_15017_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_15017",
+      "id": "nar_paper_map02_15017_1",
+      "name": "记录心得的纸",
+      "order": 1,
+      "title": "记录心得的纸",
+      "type": "text"
+    },
+    "nar_paper_map02_15018_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_15018",
+      "id": "nar_paper_map02_15018_1",
+      "name": "安德烈的研究笔记",
+      "order": 1,
+      "title": "安德烈的研究笔记",
+      "type": "text"
+    },
+    "nar_paper_map02_15021_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_15021",
+      "id": "nar_paper_map02_15021_1",
+      "name": "经过提弗洛斯翻译的手稿",
+      "order": 1,
+      "title": "经过提弗洛斯翻译的手稿",
+      "type": "text"
+    },
+    "nar_paper_map02_15022_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_15022",
+      "id": "nar_paper_map02_15022_1",
+      "name": "最后的笔记",
+      "order": 1,
+      "title": "最后的笔记",
+      "type": "text"
+    },
+    "nar_paper_map02_15023_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_15023",
+      "id": "nar_paper_map02_15023_1",
+      "name": "最后的日志",
+      "order": 1,
+      "title": "最后的日志",
+      "type": "text"
+    },
+    "nar_paper_map02_15024_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_15024",
+      "id": "nar_paper_map02_15024_1",
+      "name": "另一份经过提弗洛斯翻译的手稿",
+      "order": 1,
+      "title": "另一份经过提弗洛斯翻译的手稿",
+      "type": "text"
+    },
+    "nar_paper_map02_15025_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_15025",
+      "id": "nar_paper_map02_15025_1",
+      "name": "字迹潦草的纸条",
+      "order": 1,
+      "title": "字迹潦草的纸条",
+      "type": "text"
+    },
     "nar_sm1l1m4_1": {
       "categoryId": "digital",
       "firstLvId": "digital_sm1l1m4_1",
@@ -7860,6 +8426,15 @@
       "title": "感慨者的通信",
       "type": "text"
     },
+    "nar_digital_map02_15019_1": {
+      "categoryId": "digital",
+      "firstLvId": "digital_map02_15019",
+      "id": "nar_digital_map02_15019_1",
+      "name": "一份计划书",
+      "order": 1,
+      "title": "一份计划书",
+      "type": "text"
+    },
     "nar_col_gm01m17": {
       "categoryId": "collection",
       "firstLvId": "collection_gm01m17",
@@ -8074,6 +8649,15 @@
       "name": "弭弗的拳套",
       "order": 1,
       "title": "弭弗的拳套",
+      "type": "text"
+    },
+    "nar_collection_map02_15020_1": {
+      "categoryId": "collection",
+      "firstLvId": "collection_map02_15020",
+      "id": "nar_collection_map02_15020_1",
+      "name": "绘在墙壁上的林地地图",
+      "order": 1,
+      "title": "绘在墙壁上的林地地图",
       "type": "text"
     },
     "nar_document_v0d8_1_1": {
@@ -8580,6 +9164,33 @@
       "title": "基石",
       "type": "document"
     },
+    "nar_document_v1d5_1_1": {
+      "categoryId": "document",
+      "firstLvId": "document_v1d5_1",
+      "id": "nar_document_v1d5_1_1",
+      "name": "萨米维格",
+      "order": 1,
+      "title": "萨米维格",
+      "type": "document"
+    },
+    "nar_document_v1d5_2_1": {
+      "categoryId": "document",
+      "firstLvId": "document_v1d5_2",
+      "id": "nar_document_v1d5_2_1",
+      "name": "巨兽",
+      "order": 1,
+      "title": "巨兽",
+      "type": "document"
+    },
+    "nar_document_v1d5_3_1": {
+      "categoryId": "document",
+      "firstLvId": "document_v1d5_3",
+      "id": "nar_document_v1d5_3_1",
+      "name": "兽主",
+      "order": 1,
+      "title": "兽主",
+      "type": "document"
+    },
     "nar_report_map01_research1_17_1": {
       "categoryId": "report",
       "firstLvId": "report_map01_research1_17",
@@ -8713,6 +9324,15 @@
       "name": "关于旧日幸存者的调查报告",
       "order": 1,
       "title": "关于旧日幸存者的调查报告",
+      "type": "document"
+    },
+    "nar_report_map02_research13_1_1": {
+      "categoryId": "report",
+      "firstLvId": "report_map02_research13_1",
+      "id": "nar_report_map02_research13_1_1",
+      "name": "有关雪松林运作模式的调查报告",
+      "order": 1,
+      "title": "有关雪松林运作模式的调查报告",
       "type": "document"
     }
   }
