@@ -303,7 +303,17 @@
         "paper_map02_15022",
         "paper_map02_15023",
         "paper_map02_15024",
-        "paper_map02_15025"
+        "paper_map02_15025",
+        "paper_map02_research11_2",
+        "paper_map02_research11_3",
+        "paper_map02_research11_4",
+        "paper_map02_research11_5",
+        "paper_map02_research11_6",
+        "paper_map02_research11_7",
+        "paper_map02_research11_8",
+        "paper_map02_research11_9",
+        "paper_map02_research11_10",
+        "paper_map02_research11_13"
       ]
     },
     "digital": {
@@ -384,7 +394,10 @@
         "digital_map02_14011",
         "digital_map02_14016",
         "digital_map02_14024",
-        "digital_map02_15019"
+        "digital_map02_15019",
+        "digital_map02_research11_14",
+        "digital_map02_research11_12",
+        "paper_map02_research11_11"
       ]
     },
     "collection": {
@@ -510,6 +523,7 @@
         "report_map02_research7_12",
         "report_map02_research9_1",
         "report_map02_research12_1",
+        "report_map02_research11_1",
         "report_map02_research13_1"
       ]
     }
@@ -3192,6 +3206,106 @@
       "order": 201050025,
       "type": "text"
     },
+    "paper_map02_research11_2": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_research11_2",
+      "itemIds": [
+        "nar_paper_map02_research11_2_1"
+      ],
+      "name": "城中风貌速览",
+      "order": 201053004,
+      "type": "text"
+    },
+    "paper_map02_research11_3": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_research11_3",
+      "itemIds": [
+        "nar_paper_map02_research11_3_1"
+      ],
+      "name": "灾害的前兆",
+      "order": 201053005,
+      "type": "text"
+    },
+    "paper_map02_research11_4": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_research11_4",
+      "itemIds": [
+        "nar_paper_map02_research11_4_1"
+      ],
+      "name": "《侵蚀潮灾害应急处理手册（节选）》",
+      "order": 201053006,
+      "type": "text"
+    },
+    "paper_map02_research11_5": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_research11_5",
+      "itemIds": [
+        "nar_paper_map02_research11_5_1"
+      ],
+      "name": "《遂明杂俎·饮食篇》节选",
+      "order": 201053007,
+      "type": "text"
+    },
+    "paper_map02_research11_6": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_research11_6",
+      "itemIds": [
+        "nar_paper_map02_research11_6_1"
+      ],
+      "name": "《一份夹在书页里的信件》",
+      "order": 201053008,
+      "type": "text"
+    },
+    "paper_map02_research11_7": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_research11_7",
+      "itemIds": [
+        "nar_paper_map02_research11_7_1"
+      ],
+      "name": "一页匆忙扯下的便签",
+      "order": 201053009,
+      "type": "text"
+    },
+    "paper_map02_research11_8": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_research11_8",
+      "itemIds": [
+        "nar_paper_map02_research11_8_1"
+      ],
+      "name": "《我的妈妈》",
+      "order": 201053010,
+      "type": "text"
+    },
+    "paper_map02_research11_9": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_research11_9",
+      "itemIds": [
+        "nar_paper_map02_research11_9_1"
+      ],
+      "name": "《第十四次试做型天师桩抗侵蚀实验数据简报》",
+      "order": 201053011,
+      "type": "text"
+    },
+    "paper_map02_research11_10": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_research11_10",
+      "itemIds": [
+        "nar_paper_map02_research11_10_1"
+      ],
+      "name": "疑似学徒留下的笔记",
+      "order": 201053012,
+      "type": "text"
+    },
+    "paper_map02_research11_13": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_research11_13",
+      "itemIds": [
+        "nar_paper_map02_research11_13_1"
+      ],
+      "name": "一张日记残页",
+      "order": 201053014,
+      "type": "text"
+    },
     "digital_sm1l1m4_1": {
       "categoryId": "digital",
       "firstLvId": "digital_sm1l1m4_1",
@@ -3932,6 +4046,36 @@
       ],
       "name": "一份计划书",
       "order": 201050019,
+      "type": "text"
+    },
+    "digital_map02_research11_14": {
+      "categoryId": "digital",
+      "firstLvId": "digital_map02_research11_14",
+      "itemIds": [
+        "nar_digital_map02_research11_14_1"
+      ],
+      "name": "建城缘由考",
+      "order": 201053002,
+      "type": "text"
+    },
+    "digital_map02_research11_12": {
+      "categoryId": "digital",
+      "firstLvId": "digital_map02_research11_12",
+      "itemIds": [
+        "nar_digital_map02_research11_12_1"
+      ],
+      "name": "醒时钟维修日志",
+      "order": 201053003,
+      "type": "text"
+    },
+    "paper_map02_research11_11": {
+      "categoryId": "digital",
+      "firstLvId": "paper_map02_research11_11",
+      "itemIds": [
+        "nar_paper_map02_research11_11_1"
+      ],
+      "name": "遗留的紧急通信记录",
+      "order": 201053013,
       "type": "text"
     },
     "collection_gm01m17": {
@@ -4938,6 +5082,16 @@
       ],
       "name": "关于旧日幸存者的调查报告",
       "order": 201043201,
+      "type": "document"
+    },
+    "report_map02_research11_1": {
+      "categoryId": "report",
+      "firstLvId": "report_map02_research11_1",
+      "itemIds": [
+        "nar_report_map02_research11_1_1"
+      ],
+      "name": "有关“遂明”的调查报告",
+      "order": 201053001,
       "type": "document"
     },
     "report_map02_research13_1": {
@@ -7670,6 +7824,96 @@
       "title": "字迹潦草的纸条",
       "type": "text"
     },
+    "nar_paper_map02_research11_2_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_research11_2",
+      "id": "nar_paper_map02_research11_2_1",
+      "name": "城中风貌速览",
+      "order": 1,
+      "title": "城中风貌速览",
+      "type": "text"
+    },
+    "nar_paper_map02_research11_3_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_research11_3",
+      "id": "nar_paper_map02_research11_3_1",
+      "name": "灾害的前兆",
+      "order": 1,
+      "title": "灾害的前兆",
+      "type": "text"
+    },
+    "nar_paper_map02_research11_4_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_research11_4",
+      "id": "nar_paper_map02_research11_4_1",
+      "name": "《侵蚀潮灾害应急处理手册（节选）》",
+      "order": 1,
+      "title": "《侵蚀潮灾害应急处理手册（节选）》",
+      "type": "text"
+    },
+    "nar_paper_map02_research11_5_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_research11_5",
+      "id": "nar_paper_map02_research11_5_1",
+      "name": "《遂明杂俎·饮食篇》节选",
+      "order": 1,
+      "title": "《遂明杂俎·饮食篇》节选",
+      "type": "text"
+    },
+    "nar_paper_map02_research11_6_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_research11_6",
+      "id": "nar_paper_map02_research11_6_1",
+      "name": "《一份夹在书页里的信件》",
+      "order": 1,
+      "title": "《一份夹在书页里的信件》",
+      "type": "text"
+    },
+    "nar_paper_map02_research11_7_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_research11_7",
+      "id": "nar_paper_map02_research11_7_1",
+      "name": "一页匆忙扯下的便签",
+      "order": 1,
+      "title": "一页匆忙扯下的便签",
+      "type": "text"
+    },
+    "nar_paper_map02_research11_8_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_research11_8",
+      "id": "nar_paper_map02_research11_8_1",
+      "name": "《我的妈妈》",
+      "order": 1,
+      "title": "《我的妈妈》",
+      "type": "text"
+    },
+    "nar_paper_map02_research11_9_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_research11_9",
+      "id": "nar_paper_map02_research11_9_1",
+      "name": "《第十四次试做型天师桩抗侵蚀实验数据简报》",
+      "order": 1,
+      "title": "《第十四次试做型天师桩抗侵蚀实验数据简报》",
+      "type": "text"
+    },
+    "nar_paper_map02_research11_10_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_research11_10",
+      "id": "nar_paper_map02_research11_10_1",
+      "name": "疑似学徒留下的笔记",
+      "order": 1,
+      "title": "疑似学徒留下的笔记",
+      "type": "text"
+    },
+    "nar_paper_map02_research11_13_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_research11_13",
+      "id": "nar_paper_map02_research11_13_1",
+      "name": "一张日记残页",
+      "order": 1,
+      "title": "一张日记残页",
+      "type": "text"
+    },
     "nar_sm1l1m4_1": {
       "categoryId": "digital",
       "firstLvId": "digital_sm1l1m4_1",
@@ -8433,6 +8677,33 @@
       "name": "一份计划书",
       "order": 1,
       "title": "一份计划书",
+      "type": "text"
+    },
+    "nar_digital_map02_research11_14_1": {
+      "categoryId": "digital",
+      "firstLvId": "digital_map02_research11_14",
+      "id": "nar_digital_map02_research11_14_1",
+      "name": "建城缘由考",
+      "order": 1,
+      "title": "建城缘由考",
+      "type": "text"
+    },
+    "nar_digital_map02_research11_12_1": {
+      "categoryId": "digital",
+      "firstLvId": "digital_map02_research11_12",
+      "id": "nar_digital_map02_research11_12_1",
+      "name": "醒时钟检修日志",
+      "order": 1,
+      "title": "醒时钟检修日志",
+      "type": "text"
+    },
+    "nar_paper_map02_research11_11_1": {
+      "categoryId": "digital",
+      "firstLvId": "paper_map02_research11_11",
+      "id": "nar_paper_map02_research11_11_1",
+      "name": "遗留的紧急通信记录",
+      "order": 1,
+      "title": "遗留的紧急通信记录",
       "type": "text"
     },
     "nar_col_gm01m17": {
@@ -9324,6 +9595,15 @@
       "name": "关于旧日幸存者的调查报告",
       "order": 1,
       "title": "关于旧日幸存者的调查报告",
+      "type": "document"
+    },
+    "nar_report_map02_research11_1_1": {
+      "categoryId": "report",
+      "firstLvId": "report_map02_research11_1",
+      "id": "nar_report_map02_research11_1_1",
+      "name": "有关“遂明”的调查报告",
+      "order": 1,
+      "title": "有关“遂明”的调查报告",
       "type": "document"
     },
     "nar_report_map02_research13_1_1": {
