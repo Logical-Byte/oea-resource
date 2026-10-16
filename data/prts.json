@@ -68,7 +68,8 @@
         "media_map02_13005",
         "media_map02_14008",
         "media_map02_14032",
-        "media_map02_15012"
+        "media_map02_15012",
+        "media_map02_16017"
       ]
     },
     "paper": {
@@ -328,7 +329,34 @@
         "paper_map02_research11_8",
         "paper_map02_research11_9",
         "paper_map02_research11_10",
-        "paper_map02_research11_13"
+        "paper_map02_research11_13",
+        "paper_map02_16001",
+        "paper_map02_16002",
+        "paper_map02_16003",
+        "paper_map02_16004",
+        "paper_map02_16005",
+        "paper_map02_16006",
+        "paper_map02_16007",
+        "paper_map02_16008",
+        "paper_map02_16010",
+        "paper_map02_16011",
+        "paper_map02_16012",
+        "paper_map02_16013",
+        "paper_map02_16014",
+        "paper_map02_16016",
+        "paper_map02_16021",
+        "paper_map02_16022",
+        "paper_map02_research8_1",
+        "paper_map02_research8_2",
+        "paper_map02_research8_3",
+        "paper_map02_research8_4",
+        "paper_map02_research8_5",
+        "paper_map02_research8_6",
+        "report_map02_research8_7",
+        "paper_map02_research10_1",
+        "paper_map02_research10_2",
+        "paper_map02_research10_3",
+        "paper_map02_research10_4"
       ]
     },
     "digital": {
@@ -523,7 +551,9 @@
         "document_v1d4_4",
         "document_v1d5_1",
         "document_v1d5_2",
-        "document_v1d5_3"
+        "document_v1d5_3",
+        "document_v1d6_1",
+        "document_v1d6_2"
       ]
     },
     "report": {
@@ -551,7 +581,9 @@
         "report_map02_research9_1",
         "report_map02_research12_1",
         "report_map02_research11_1",
-        "report_map02_research13_1"
+        "report_map02_research13_1",
+        "report_map02_research8_8",
+        "report_map02_research10_5"
       ]
     }
   },
@@ -880,6 +912,19 @@
         "en-US": "Dialog: With a Snowpriestess"
       },
       "order": 201050012,
+      "type": "multi_media"
+    },
+    "media_map02_16017": {
+      "categoryId": "media",
+      "firstLvId": "media_map02_16017",
+      "itemIds": [
+        "nar_media_map02_16017_1"
+      ],
+      "name": {
+        "zh-CN": "写生者的探讨",
+        "en-US": "Discussion: A Sketcher"
+      },
+      "order": 201060015,
       "type": "multi_media"
     },
     "paper_sm1l5m1_1": {
@@ -4155,6 +4200,359 @@
       "order": 201053014,
       "type": "text"
     },
+    "paper_map02_16001": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_16001",
+      "itemIds": [
+        "nar_paper_map02_16001_1"
+      ],
+      "name": {
+        "zh-CN": "寻觅者的留言",
+        "en-US": "Memo: A Finder"
+      },
+      "order": 201060001,
+      "type": "text"
+    },
+    "paper_map02_16002": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_16002",
+      "itemIds": [
+        "nar_paper_map02_16002_1"
+      ],
+      "name": {
+        "zh-CN": "《“浣清”二字考略》",
+        "en-US": "Etymology of the \"Cleansing Pool\""
+      },
+      "order": 201060002,
+      "type": "text"
+    },
+    "paper_map02_16003": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_16003",
+      "itemIds": [
+        "nar_paper_map02_16003_1"
+      ],
+      "name": {
+        "zh-CN": "潦草的菜谱推演",
+        "en-US": "Recipe: A Test, Very Messily Written"
+      },
+      "order": 201060003,
+      "type": "text"
+    },
+    "paper_map02_16004": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_16004",
+      "itemIds": [
+        "nar_paper_map02_16004_1"
+      ],
+      "name": {
+        "zh-CN": "食材备忘",
+        "en-US": "Memo: Ingredients"
+      },
+      "order": 201060004,
+      "type": "text"
+    },
+    "paper_map02_16005": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_16005",
+      "itemIds": [
+        "nar_paper_map02_16005_1"
+      ],
+      "name": {
+        "zh-CN": "“手不停”的猜测",
+        "en-US": "Guesses by \"Job Rusher\""
+      },
+      "order": 201060005,
+      "type": "text"
+    },
+    "paper_map02_16006": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_16006",
+      "itemIds": [
+        "nar_paper_map02_16006_1"
+      ],
+      "name": {
+        "zh-CN": "“跑得快”的猜测",
+        "en-US": "Guesses by \"Speed Dasher\""
+      },
+      "order": 201060006,
+      "type": "text"
+    },
+    "paper_map02_16007": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_16007",
+      "itemIds": [
+        "nar_paper_map02_16007_1"
+      ],
+      "name": {
+        "zh-CN": "“大嗓门”的猜测",
+        "en-US": "Guesses by \"Loud Speaker\""
+      },
+      "order": 201060007,
+      "type": "text"
+    },
+    "paper_map02_16008": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_16008",
+      "itemIds": [
+        "nar_paper_map02_16008_1"
+      ],
+      "name": {
+        "zh-CN": "写生者极度狂喜后的认真留言",
+        "en-US": "Memo: Seriously Written by a Sketcher After Extreme Joy"
+      },
+      "order": 201060008,
+      "type": "text"
+    },
+    "paper_map02_16010": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_16010",
+      "itemIds": [
+        "nar_paper_map02_16010_1"
+      ],
+      "name": {
+        "zh-CN": "待整理的采访记录",
+        "en-US": "Interview Log: Not Yet Organized"
+      },
+      "order": 201060009,
+      "type": "text"
+    },
+    "paper_map02_16011": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_16011",
+      "itemIds": [
+        "nar_paper_map02_16011_1"
+      ],
+      "name": {
+        "zh-CN": "墨魉的留言",
+        "en-US": "Memo: An Ink Spirit"
+      },
+      "order": 201060010,
+      "type": "text"
+    },
+    "paper_map02_16012": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_16012",
+      "itemIds": [
+        "nar_paper_map02_16012_1"
+      ],
+      "name": {
+        "zh-CN": "有关烟火钱的留言",
+        "en-US": "Memo: About Spirit Money"
+      },
+      "order": 201060011,
+      "type": "text"
+    },
+    "paper_map02_16013": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_16013",
+      "itemIds": [
+        "nar_paper_map02_16013_1"
+      ],
+      "name": {
+        "zh-CN": "误入者的留言",
+        "en-US": "Memo: An Unintentional Trespasser"
+      },
+      "order": 201060012,
+      "type": "text"
+    },
+    "paper_map02_16014": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_16014",
+      "itemIds": [
+        "nar_paper_map02_16014_1"
+      ],
+      "name": {
+        "zh-CN": "食客的留言",
+        "en-US": "Memo: A Diner"
+      },
+      "order": 201060013,
+      "type": "text"
+    },
+    "paper_map02_16016": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_16016",
+      "itemIds": [
+        "nar_paper_map02_16016_1",
+        "nar_paper_map02_16016_2",
+        "nar_paper_map02_16016_3"
+      ],
+      "name": {
+        "zh-CN": "注视者的沉思",
+        "en-US": "Muses: One Who Studies"
+      },
+      "order": 201060014,
+      "type": "text"
+    },
+    "paper_map02_16021": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_16021",
+      "itemIds": [
+        "nar_paper_map02_16021_1"
+      ],
+      "name": {
+        "zh-CN": "极度简陋的墨魉",
+        "en-US": "A Very Minimalist Ink Spirit"
+      },
+      "order": 201060016,
+      "type": "text"
+    },
+    "paper_map02_16022": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_16022",
+      "itemIds": [
+        "nar_paper_map02_16022_1"
+      ],
+      "name": {
+        "zh-CN": "观月者的留字",
+        "en-US": "Memo: Moon Gazer"
+      },
+      "order": 201060017,
+      "type": "text"
+    },
+    "paper_map02_research8_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_research8_1",
+      "itemIds": [
+        "nar_paper_map02_research8_1_1"
+      ],
+      "name": {
+        "zh-CN": "温柔的奇闻集",
+        "en-US": "Gentle Miscellany"
+      },
+      "order": 201062401,
+      "type": "text"
+    },
+    "paper_map02_research8_2": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_research8_2",
+      "itemIds": [
+        "nar_paper_map02_research8_2_1"
+      ],
+      "name": {
+        "zh-CN": "爽朗的奇闻集",
+        "en-US": "Easygoing Miscellany"
+      },
+      "order": 201062402,
+      "type": "text"
+    },
+    "paper_map02_research8_3": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_research8_3",
+      "itemIds": [
+        "nar_paper_map02_research8_3_1"
+      ],
+      "name": {
+        "zh-CN": "有力的奇闻集",
+        "en-US": "Strong Miscellany"
+      },
+      "order": 201062403,
+      "type": "text"
+    },
+    "paper_map02_research8_4": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_research8_4",
+      "itemIds": [
+        "nar_paper_map02_research8_4_1"
+      ],
+      "name": {
+        "zh-CN": "微醺的奇闻集",
+        "en-US": "Tipsy Miscellany"
+      },
+      "order": 201062404,
+      "type": "text"
+    },
+    "paper_map02_research8_5": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_research8_5",
+      "itemIds": [
+        "nar_paper_map02_research8_5_1"
+      ],
+      "name": {
+        "zh-CN": "火热的奇闻集",
+        "en-US": "Superhot Miscellany"
+      },
+      "order": 201062405,
+      "type": "text"
+    },
+    "paper_map02_research8_6": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_research8_6",
+      "itemIds": [
+        "nar_paper_map02_research8_6_1"
+      ],
+      "name": {
+        "zh-CN": "超然的奇闻集",
+        "en-US": "Detached Miscellany"
+      },
+      "order": 201062406,
+      "type": "text"
+    },
+    "report_map02_research8_7": {
+      "categoryId": "paper",
+      "firstLvId": "report_map02_research8_7",
+      "itemIds": [
+        "nar_report_map02_research8_7_1"
+      ],
+      "name": {
+        "zh-CN": "被妥善保存的信纸",
+        "en-US": "Letter: Well Kept"
+      },
+      "order": 201062407,
+      "type": "text"
+    },
+    "paper_map02_research10_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_research10_1",
+      "itemIds": [
+        "nar_paper_map02_research10_1_1"
+      ],
+      "name": {
+        "zh-CN": "给大小姐的信（草稿）",
+        "en-US": "Letter: For the Lady (A Draft)"
+      },
+      "order": 201062801,
+      "type": "text"
+    },
+    "paper_map02_research10_2": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_research10_2",
+      "itemIds": [
+        "nar_paper_map02_research10_2_1"
+      ],
+      "name": {
+        "zh-CN": "无奈墨魉的留字",
+        "en-US": "Memo: A Resigned Ink Spirit"
+      },
+      "order": 201062802,
+      "type": "text"
+    },
+    "paper_map02_research10_3": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_research10_3",
+      "itemIds": [
+        "nar_paper_map02_research10_3_1"
+      ],
+      "name": {
+        "zh-CN": "思考者的留言",
+        "en-US": "Memo: A Ponderer"
+      },
+      "order": 201062803,
+      "type": "text"
+    },
+    "paper_map02_research10_4": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_research10_4",
+      "itemIds": [
+        "nar_paper_map02_research10_4_1"
+      ],
+      "name": {
+        "zh-CN": "墨魉的欢快留言",
+        "en-US": "Memo: A Joyful Ink Spirit"
+      },
+      "order": 201062804,
+      "type": "text"
+    },
     "digital_sm1l1m4_1": {
       "categoryId": "digital",
       "firstLvId": "digital_sm1l1m4_1",
@@ -6269,6 +6667,32 @@
       "order": 1050003,
       "type": "document"
     },
+    "document_v1d6_1": {
+      "categoryId": "document",
+      "firstLvId": "document_v1d6_1",
+      "itemIds": [
+        "nar_document_v1d6_1_1"
+      ],
+      "name": {
+        "zh-CN": "祀的画",
+        "en-US": "Si's Painting"
+      },
+      "order": 1060001,
+      "type": "document"
+    },
+    "document_v1d6_2": {
+      "categoryId": "document",
+      "firstLvId": "document_v1d6_2",
+      "itemIds": [
+        "nar_document_v1d6_2_1"
+      ],
+      "name": {
+        "zh-CN": "化物",
+        "en-US": "Apparitions"
+      },
+      "order": 1060002,
+      "type": "document"
+    },
     "report_map01_research1_17": {
       "categoryId": "report",
       "firstLvId": "report_map01_research1_17",
@@ -6488,6 +6912,32 @@
         "en-US": "IR: Operational Model of the Snowy Forest"
       },
       "order": 201053401,
+      "type": "document"
+    },
+    "report_map02_research8_8": {
+      "categoryId": "report",
+      "firstLvId": "report_map02_research8_8",
+      "itemIds": [
+        "nar_report_map02_research8_8_1"
+      ],
+      "name": {
+        "zh-CN": "奇人辑录",
+        "en-US": "Records: Unique Personalities"
+      },
+      "order": 201062408,
+      "type": "document"
+    },
+    "report_map02_research10_5": {
+      "categoryId": "report",
+      "firstLvId": "report_map02_research10_5",
+      "itemIds": [
+        "nar_report_map02_research10_5_1"
+      ],
+      "name": {
+        "zh-CN": "有关化物的行为方式的调查报告",
+        "en-US": "IR: Apparition Behavior"
+      },
+      "order": 201062805,
       "type": "document"
     }
   },
@@ -6879,6 +7329,21 @@
       "title": {
         "zh-CN": "与雪祀的谈话",
         "en-US": "Dialog: With a Snowpriestess"
+      },
+      "type": "multi_media"
+    },
+    "nar_media_map02_16017_1": {
+      "categoryId": "media",
+      "firstLvId": "media_map02_16017",
+      "id": "nar_media_map02_16017_1",
+      "name": {
+        "zh-CN": "写生者的探讨",
+        "en-US": "Discussion: A Sketcher"
+      },
+      "order": 1,
+      "title": {
+        "zh-CN": "写生者的探讨",
+        "en-US": "Discussion: A Sketcher"
       },
       "type": "multi_media"
     },
@@ -11172,6 +11637,441 @@
       },
       "type": "text"
     },
+    "nar_paper_map02_16001_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_16001",
+      "id": "nar_paper_map02_16001_1",
+      "name": {
+        "zh-CN": "寻觅者的留言",
+        "en-US": "Memo: A Finder"
+      },
+      "order": 1,
+      "title": {
+        "zh-CN": "寻觅者的留言",
+        "en-US": "Memo: A Finder"
+      },
+      "type": "text"
+    },
+    "nar_paper_map02_16002_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_16002",
+      "id": "nar_paper_map02_16002_1",
+      "name": {
+        "zh-CN": "《“浣清”二字考略》",
+        "en-US": "Etymology of the \"Cleansing Pool\""
+      },
+      "order": 1,
+      "title": {
+        "zh-CN": "《“浣清”二字考略》",
+        "en-US": "Etymology of the \"Cleansing Pool\""
+      },
+      "type": "text"
+    },
+    "nar_paper_map02_16003_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_16003",
+      "id": "nar_paper_map02_16003_1",
+      "name": {
+        "zh-CN": "潦草的菜谱推演",
+        "en-US": "Recipe: A Test, Very Messily Written"
+      },
+      "order": 1,
+      "title": {
+        "zh-CN": "潦草的菜谱推演",
+        "en-US": "Recipe: A Test, Very Messily Written"
+      },
+      "type": "text"
+    },
+    "nar_paper_map02_16004_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_16004",
+      "id": "nar_paper_map02_16004_1",
+      "name": {
+        "zh-CN": "食材备忘",
+        "en-US": "Memo: Ingredients"
+      },
+      "order": 1,
+      "title": {
+        "zh-CN": "食材备忘",
+        "en-US": "Memo: Ingredients"
+      },
+      "type": "text"
+    },
+    "nar_paper_map02_16005_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_16005",
+      "id": "nar_paper_map02_16005_1",
+      "name": {
+        "zh-CN": "“手不停”的猜测",
+        "en-US": "Guesses by \"Job Rusher\""
+      },
+      "order": 1,
+      "title": {
+        "zh-CN": "“手不停”的猜测",
+        "en-US": "Guesses by \"Job Rusher\""
+      },
+      "type": "text"
+    },
+    "nar_paper_map02_16006_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_16006",
+      "id": "nar_paper_map02_16006_1",
+      "name": {
+        "zh-CN": "“跑得快”的猜测",
+        "en-US": "Guesses by \"Speed Dasher\""
+      },
+      "order": 1,
+      "title": {
+        "zh-CN": "“跑得快”的猜测",
+        "en-US": "Guesses by \"Speed Dasher\""
+      },
+      "type": "text"
+    },
+    "nar_paper_map02_16007_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_16007",
+      "id": "nar_paper_map02_16007_1",
+      "name": {
+        "zh-CN": "“大嗓门”的猜测",
+        "en-US": "Guesses by \"Loud Speaker\""
+      },
+      "order": 1,
+      "title": {
+        "zh-CN": "“大嗓门”的猜测",
+        "en-US": "Guesses by \"Loud Speaker\""
+      },
+      "type": "text"
+    },
+    "nar_paper_map02_16008_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_16008",
+      "id": "nar_paper_map02_16008_1",
+      "name": {
+        "zh-CN": "写生者极度狂喜后的认真留言",
+        "en-US": "Memo: Seriously Written by a Sketcher After Extreme Joy"
+      },
+      "order": 1,
+      "title": {
+        "zh-CN": "写生者极度狂喜后的认真留言",
+        "en-US": "Memo: Seriously Written by a Sketcher After Extreme Joy"
+      },
+      "type": "text"
+    },
+    "nar_paper_map02_16010_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_16010",
+      "id": "nar_paper_map02_16010_1",
+      "name": {
+        "zh-CN": "待整理的采访记录",
+        "en-US": "Interview Log: Not Yet Organized"
+      },
+      "order": 1,
+      "title": {
+        "zh-CN": "待整理的采访记录",
+        "en-US": "Interview Log: Not Yet Organized"
+      },
+      "type": "text"
+    },
+    "nar_paper_map02_16011_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_16011",
+      "id": "nar_paper_map02_16011_1",
+      "name": {
+        "zh-CN": "墨魉的留言",
+        "en-US": "Memo: An Ink Spirit"
+      },
+      "order": 1,
+      "title": {
+        "zh-CN": "墨魉的留言",
+        "en-US": "Memo: An Ink Spirit"
+      },
+      "type": "text"
+    },
+    "nar_paper_map02_16012_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_16012",
+      "id": "nar_paper_map02_16012_1",
+      "name": {
+        "zh-CN": "有关烟火钱的留言",
+        "en-US": "Memo: About Spirit Money"
+      },
+      "order": 1,
+      "title": {
+        "zh-CN": "有关烟火钱的留言",
+        "en-US": "Memo: About Spirit Money"
+      },
+      "type": "text"
+    },
+    "nar_paper_map02_16013_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_16013",
+      "id": "nar_paper_map02_16013_1",
+      "name": {
+        "zh-CN": "误入者的留言",
+        "en-US": "Memo: An Unintentional Trespasser"
+      },
+      "order": 1,
+      "title": {
+        "zh-CN": "误入者的留言",
+        "en-US": "Memo: An Unintentional Trespasser"
+      },
+      "type": "text"
+    },
+    "nar_paper_map02_16014_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_16014",
+      "id": "nar_paper_map02_16014_1",
+      "name": {
+        "zh-CN": "食客的留言",
+        "en-US": "Memo: A Diner"
+      },
+      "order": 1,
+      "title": {
+        "zh-CN": "食客的留言",
+        "en-US": "Memo: A Diner"
+      },
+      "type": "text"
+    },
+    "nar_paper_map02_16016_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_16016",
+      "id": "nar_paper_map02_16016_1",
+      "name": {
+        "zh-CN": "注视者的沉思（其一）",
+        "en-US": "Muses: One Who Studies (1)"
+      },
+      "order": 1,
+      "title": {
+        "zh-CN": "注视者的沉思（其一）",
+        "en-US": "Muses: One Who Studies (1)"
+      },
+      "type": "text"
+    },
+    "nar_paper_map02_16016_2": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_16016",
+      "id": "nar_paper_map02_16016_2",
+      "name": {
+        "zh-CN": "注视者的沉思（其二）",
+        "en-US": "Muses: One Who Studies (2)"
+      },
+      "order": 2,
+      "title": {
+        "zh-CN": "注视者的沉思（其二）",
+        "en-US": "Muses: One Who Studies (2)"
+      },
+      "type": "text"
+    },
+    "nar_paper_map02_16016_3": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_16016",
+      "id": "nar_paper_map02_16016_3",
+      "name": {
+        "zh-CN": "注视者的沉思（其三）",
+        "en-US": "Muses: One Who Studies (3)"
+      },
+      "order": 3,
+      "title": {
+        "zh-CN": "注视者的沉思（其三）",
+        "en-US": "Muses: One Who Studies (3)"
+      },
+      "type": "text"
+    },
+    "nar_paper_map02_16021_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_16021",
+      "id": "nar_paper_map02_16021_1",
+      "name": {
+        "zh-CN": "极度简陋的墨魉",
+        "en-US": "A Very Minimalist Ink Spirit"
+      },
+      "order": 1,
+      "title": {
+        "zh-CN": "极度简陋的墨魉",
+        "en-US": "A Very Minimalist Ink Spirit"
+      },
+      "type": "text"
+    },
+    "nar_paper_map02_16022_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_16022",
+      "id": "nar_paper_map02_16022_1",
+      "name": {
+        "zh-CN": "观月者的留字",
+        "en-US": "Memo: Moon Gazer"
+      },
+      "order": 1,
+      "title": {
+        "zh-CN": "观月者的留字",
+        "en-US": "Memo: Moon Gazer"
+      },
+      "type": "text"
+    },
+    "nar_paper_map02_research8_1_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_research8_1",
+      "id": "nar_paper_map02_research8_1_1",
+      "name": {
+        "zh-CN": "温柔的奇闻集",
+        "en-US": "Gentle Miscellany"
+      },
+      "order": 1,
+      "title": {
+        "zh-CN": "温柔的奇闻集",
+        "en-US": "Gentle Miscellany"
+      },
+      "type": "text"
+    },
+    "nar_paper_map02_research8_2_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_research8_2",
+      "id": "nar_paper_map02_research8_2_1",
+      "name": {
+        "zh-CN": "爽朗的奇闻集",
+        "en-US": "Easygoing Miscellany"
+      },
+      "order": 1,
+      "title": {
+        "zh-CN": "爽朗的奇闻集",
+        "en-US": "Easygoing Miscellany"
+      },
+      "type": "text"
+    },
+    "nar_paper_map02_research8_3_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_research8_3",
+      "id": "nar_paper_map02_research8_3_1",
+      "name": {
+        "zh-CN": "有力的奇闻集",
+        "en-US": "Strong Miscellany"
+      },
+      "order": 1,
+      "title": {
+        "zh-CN": "有力的奇闻集",
+        "en-US": "Strong Miscellany"
+      },
+      "type": "text"
+    },
+    "nar_paper_map02_research8_4_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_research8_4",
+      "id": "nar_paper_map02_research8_4_1",
+      "name": {
+        "zh-CN": "微醺的奇闻集",
+        "en-US": "Tipsy Miscellany"
+      },
+      "order": 1,
+      "title": {
+        "zh-CN": "微醺的奇闻集",
+        "en-US": "Tipsy Miscellany"
+      },
+      "type": "text"
+    },
+    "nar_paper_map02_research8_5_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_research8_5",
+      "id": "nar_paper_map02_research8_5_1",
+      "name": {
+        "zh-CN": "火热的奇闻集",
+        "en-US": "Superhot Miscellany"
+      },
+      "order": 1,
+      "title": {
+        "zh-CN": "火热的奇闻集",
+        "en-US": "Superhot Miscellany"
+      },
+      "type": "text"
+    },
+    "nar_paper_map02_research8_6_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_research8_6",
+      "id": "nar_paper_map02_research8_6_1",
+      "name": {
+        "zh-CN": "超然的奇闻集",
+        "en-US": "Detached Miscellany"
+      },
+      "order": 1,
+      "title": {
+        "zh-CN": "超然的奇闻集",
+        "en-US": "Detached Miscellany"
+      },
+      "type": "text"
+    },
+    "nar_report_map02_research8_7_1": {
+      "categoryId": "paper",
+      "firstLvId": "report_map02_research8_7",
+      "id": "nar_report_map02_research8_7_1",
+      "name": {
+        "zh-CN": "被妥善保存的信纸",
+        "en-US": "Letter: Well Kept"
+      },
+      "order": 1,
+      "title": {
+        "zh-CN": "被妥善保存的信纸",
+        "en-US": "Letter: Well Kept"
+      },
+      "type": "text"
+    },
+    "nar_paper_map02_research10_1_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_research10_1",
+      "id": "nar_paper_map02_research10_1_1",
+      "name": {
+        "zh-CN": "给大小姐的信（草稿）",
+        "en-US": "Letter: For the Lady (A Draft)"
+      },
+      "order": 1,
+      "title": {
+        "zh-CN": "给大小姐的信（草稿）",
+        "en-US": "Letter: For the Lady (A Draft)"
+      },
+      "type": "text"
+    },
+    "nar_paper_map02_research10_2_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_research10_2",
+      "id": "nar_paper_map02_research10_2_1",
+      "name": {
+        "zh-CN": "无奈墨魉的留字",
+        "en-US": "Memo: A Resigned Ink Spirit"
+      },
+      "order": 1,
+      "title": {
+        "zh-CN": "无奈墨魉的留字",
+        "en-US": "Memo: A Resigned Ink Spirit"
+      },
+      "type": "text"
+    },
+    "nar_paper_map02_research10_3_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_research10_3",
+      "id": "nar_paper_map02_research10_3_1",
+      "name": {
+        "zh-CN": "思考者的留言",
+        "en-US": "Memo: A Ponderer"
+      },
+      "order": 1,
+      "title": {
+        "zh-CN": "思考者的留言",
+        "en-US": "Memo: A Ponderer"
+      },
+      "type": "text"
+    },
+    "nar_paper_map02_research10_4_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_research10_4",
+      "id": "nar_paper_map02_research10_4_1",
+      "name": {
+        "zh-CN": "墨魉的欢快留言",
+        "en-US": "Memo: A Joyful Ink Spirit"
+      },
+      "order": 1,
+      "title": {
+        "zh-CN": "墨魉的欢快留言",
+        "en-US": "Memo: A Joyful Ink Spirit"
+      },
+      "type": "text"
+    },
     "nar_sm1l1m4_1": {
       "categoryId": "digital",
       "firstLvId": "digital_sm1l1m4_1",
@@ -13752,6 +14652,36 @@
       },
       "type": "document"
     },
+    "nar_document_v1d6_1_1": {
+      "categoryId": "document",
+      "firstLvId": "document_v1d6_1",
+      "id": "nar_document_v1d6_1_1",
+      "name": {
+        "zh-CN": "祀的画",
+        "en-US": "Si's Painting"
+      },
+      "order": 1,
+      "title": {
+        "zh-CN": "祀的画",
+        "en-US": "Si's Painting"
+      },
+      "type": "document"
+    },
+    "nar_document_v1d6_2_1": {
+      "categoryId": "document",
+      "firstLvId": "document_v1d6_2",
+      "id": "nar_document_v1d6_2_1",
+      "name": {
+        "zh-CN": "化物",
+        "en-US": "Apparitions"
+      },
+      "order": 1,
+      "title": {
+        "zh-CN": "化物",
+        "en-US": "Apparitions"
+      },
+      "type": "document"
+    },
     "nar_report_map01_research1_17_1": {
       "categoryId": "report",
       "firstLvId": "report_map01_research1_17",
@@ -14004,6 +14934,36 @@
       "title": {
         "zh-CN": "有关雪松林运作模式的调查报告",
         "en-US": "IR: Operational Model of the Snowy Forest"
+      },
+      "type": "document"
+    },
+    "nar_report_map02_research8_8_1": {
+      "categoryId": "report",
+      "firstLvId": "report_map02_research8_8",
+      "id": "nar_report_map02_research8_8_1",
+      "name": {
+        "zh-CN": "奇人辑录",
+        "en-US": "Records: Unique Personalities"
+      },
+      "order": 1,
+      "title": {
+        "zh-CN": "奇人辑录",
+        "en-US": "Records: Unique Personalities"
+      },
+      "type": "document"
+    },
+    "nar_report_map02_research10_5_1": {
+      "categoryId": "report",
+      "firstLvId": "report_map02_research10_5",
+      "id": "nar_report_map02_research10_5_1",
+      "name": {
+        "zh-CN": "有关化物的行为方式的调查报告",
+        "en-US": "IR: Apparition Behavior"
+      },
+      "order": 1,
+      "title": {
+        "zh-CN": "有关化物的行为方式的调查报告",
+        "en-US": "IR: Apparition Behavior"
       },
       "type": "document"
     }
