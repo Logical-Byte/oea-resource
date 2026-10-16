@@ -10120,6 +10120,10 @@
         "zh-CN": "挂在竹子上的字条",
         "en-US": "Note Hanging from a Bamboo"
       },
+      "contentPreview": {
+        "zh-CN": "先祖保佑我家那口子",
+        "en-US": "Protect my family"
+      },
       "type": "text"
     },
     "nar_paper_map02_93_2": {
@@ -10134,6 +10138,10 @@
       "title": {
         "zh-CN": "挂在竹子上的字条",
         "en-US": "Note Hanging from a Bamboo"
+      },
+      "contentPreview": {
+        "zh-CN": "保佑寨子■■■■",
+        "en-US": "Protect the ■■■■ Stockade"
       },
       "type": "text"
     },
