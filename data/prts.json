@@ -481,7 +481,8 @@
         "collection_map02_12136",
         "collection_map02_13006",
         "collection_map02_13007",
-        "collection_map02_15020"
+        "collection_map02_15020",
+        "collection_map02_16019"
       ]
     },
     "document": {
@@ -5898,6 +5899,19 @@
         "en-US": "Wall Drawing: Map of the Forest"
       },
       "order": 201050020,
+      "type": "text"
+    },
+    "collection_map02_16019": {
+      "categoryId": "collection",
+      "firstLvId": "collection_map02_16019",
+      "itemIds": [
+        "nar_collection_map02_16019_1"
+      ],
+      "name": {
+        "zh-CN": "旧时新枝",
+        "en-US": "Old Roots, New Shoots"
+      },
+      "order": 201060018,
       "type": "text"
     },
     "document_v0d8_1": {
@@ -13772,6 +13786,21 @@
       "title": {
         "zh-CN": "绘在墙壁上的林地地图",
         "en-US": "Wall Drawing: Map of the Forest"
+      },
+      "type": "text"
+    },
+    "nar_collection_map02_16019_1": {
+      "categoryId": "collection",
+      "firstLvId": "collection_map02_16019",
+      "id": "nar_collection_map02_16019_1",
+      "name": {
+        "zh-CN": "旧时新枝",
+        "en-US": "Old Roots, New Shoots"
+      },
+      "order": 1,
+      "title": {
+        "zh-CN": "旧时新枝",
+        "en-US": "Old Roots, New Shoots"
       },
       "type": "text"
     },
