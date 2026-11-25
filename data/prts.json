@@ -356,7 +356,26 @@
         "paper_map02_research10_1",
         "paper_map02_research10_2",
         "paper_map02_research10_3",
-        "paper_map02_research10_4"
+        "paper_map02_research10_4",
+        "paper_map02_17009",
+        "paper_map02_17010",
+        "paper_map02_17011",
+        "paper_map02_17012",
+        "paper_map02_17013",
+        "paper_map02_17014",
+        "paper_map02_17016",
+        "paper_map02_17018",
+        "paper_map02_17006",
+        "paper_map02_17019",
+        "paper_map02_17020",
+        "paper_map02_17021",
+        "paper_map02_17022",
+        "paper_map02_17023",
+        "paper_map02_17024",
+        "paper_map02_research14_1",
+        "paper_map02_research14_2",
+        "paper_map02_research14_3",
+        "paper_map02_research14_4"
       ]
     },
     "digital": {
@@ -443,7 +462,9 @@
         "digital_map02_15019",
         "digital_map02_research11_14",
         "digital_map02_research11_12",
-        "paper_map02_research11_11"
+        "paper_map02_research11_11",
+        "digital_map02_17015",
+        "digital_map02_17017"
       ]
     },
     "collection": {
@@ -482,7 +503,16 @@
         "collection_map02_13006",
         "collection_map02_13007",
         "collection_map02_15020",
-        "collection_map02_16019"
+        "collection_map02_16019",
+        "collection_map02_17028",
+        "collection_map02_17029",
+        "collection_map02_17030",
+        "collection_map02_17031",
+        "collection_map02_17032",
+        "collection_map02_17033",
+        "collection_map02_17025",
+        "collection_map02_17026",
+        "collection_map02_17027"
       ]
     },
     "document": {
@@ -554,7 +584,8 @@
         "document_v1d5_2",
         "document_v1d5_3",
         "document_v1d6_1",
-        "document_v1d6_2"
+        "document_v1d6_2",
+        "document_v1d7_1"
       ]
     },
     "report": {
@@ -584,7 +615,8 @@
         "report_map02_research11_1",
         "report_map02_research13_1",
         "report_map02_research8_8",
-        "report_map02_research10_5"
+        "report_map02_research10_5",
+        "report_map02_research14_5"
       ]
     }
   },
@@ -4554,6 +4586,253 @@
       "order": 201062804,
       "type": "text"
     },
+    "paper_map02_17009": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_17009",
+      "itemIds": [
+        "nar_paper_map02_17009_1"
+      ],
+      "name": {
+        "zh-CN": "行程记录（一)",
+        "en-US": "Operations Log (1)"
+      },
+      "order": 201070007,
+      "type": "text"
+    },
+    "paper_map02_17010": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_17010",
+      "itemIds": [
+        "nar_paper_map02_17010_1"
+      ],
+      "name": {
+        "zh-CN": "有关甚大裂隙的陈旧记录",
+        "en-US": "Old Log: About the Very Large Rift"
+      },
+      "order": 201070008,
+      "type": "text"
+    },
+    "paper_map02_17011": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_17011",
+      "itemIds": [
+        "nar_paper_map02_17011_1"
+      ],
+      "name": {
+        "zh-CN": "误入者的留言",
+        "en-US": "Memo: Unintentional Trespasser"
+      },
+      "order": 201070009,
+      "type": "text"
+    },
+    "paper_map02_17012": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_17012",
+      "itemIds": [
+        "nar_paper_map02_17012_1"
+      ],
+      "name": {
+        "zh-CN": "行程记录（三）",
+        "en-US": "Operations Log (3)"
+      },
+      "order": 201070010,
+      "type": "text"
+    },
+    "paper_map02_17013": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_17013",
+      "itemIds": [
+        "nar_paper_map02_17013_1"
+      ],
+      "name": {
+        "zh-CN": "E21实验记录",
+        "en-US": "E21 Test Log"
+      },
+      "order": 201070011,
+      "type": "text"
+    },
+    "paper_map02_17014": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_17014",
+      "itemIds": [
+        "nar_paper_map02_17014_1"
+      ],
+      "name": {
+        "zh-CN": "各类蘑菇的培育记录",
+        "en-US": "Fungiculture Log: By Species"
+      },
+      "order": 201070012,
+      "type": "text"
+    },
+    "paper_map02_17016": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_17016",
+      "itemIds": [
+        "nar_paper_map02_17016_1"
+      ],
+      "name": {
+        "zh-CN": "《实验β区育种与制肥手册（节选）》",
+        "en-US": "Manual: Test Zone β Selective Breeding & Fertilizer Prep (Excerpt)"
+      },
+      "order": 201070014,
+      "type": "text"
+    },
+    "paper_map02_17018": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_17018",
+      "itemIds": [
+        "nar_paper_map02_17018_1"
+      ],
+      "name": {
+        "zh-CN": "未署名的手记（二）",
+        "en-US": "Written Notes: Unsigned (2)"
+      },
+      "order": 201070016,
+      "type": "text"
+    },
+    "paper_map02_17006": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_17006",
+      "itemIds": [
+        "nar_paper_map02_17006_1"
+      ],
+      "name": {
+        "zh-CN": "《试验层紧急情况处理手册》",
+        "en-US": "Testing Floor Emergency Response Manual"
+      },
+      "order": 201070017,
+      "type": "text"
+    },
+    "paper_map02_17019": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_17019",
+      "itemIds": [
+        "nar_paper_map02_17019_1"
+      ],
+      "name": {
+        "zh-CN": "发黄的内部通报文件",
+        "en-US": "Internal Communique (Slightly Discolored)"
+      },
+      "order": 201070018,
+      "type": "text"
+    },
+    "paper_map02_17020": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_17020",
+      "itemIds": [
+        "nar_paper_map02_17020_1"
+      ],
+      "name": {
+        "zh-CN": "一份手写的工作日志",
+        "en-US": "Handwritten Work Log"
+      },
+      "order": 201070019,
+      "type": "text"
+    },
+    "paper_map02_17021": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_17021",
+      "itemIds": [
+        "nar_paper_map02_17021_1"
+      ],
+      "name": {
+        "zh-CN": "未署名的手记（一）",
+        "en-US": "Written Notes: Unsigned (1)"
+      },
+      "order": 201070020,
+      "type": "text"
+    },
+    "paper_map02_17022": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_17022",
+      "itemIds": [
+        "nar_paper_map02_17022_1"
+      ],
+      "name": {
+        "zh-CN": "关于种植试验场L329特殊事件的处理方案",
+        "en-US": "Proposal for Handling the Incident of Test Farm L329"
+      },
+      "order": 201070021,
+      "type": "text"
+    },
+    "paper_map02_17023": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_17023",
+      "itemIds": [
+        "nar_paper_map02_17023_1"
+      ],
+      "name": {
+        "zh-CN": "关于特殊实验肥料HF31924075的最终处理报告",
+        "en-US": "Final Treatment Report: Special Prototype Fertilizer HF31924075"
+      },
+      "order": 201070022,
+      "type": "text"
+    },
+    "paper_map02_17024": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_17024",
+      "itemIds": [
+        "nar_paper_map02_17024_1"
+      ],
+      "name": {
+        "zh-CN": "手记的残页",
+        "en-US": "Torn Page: Handwritten Notes"
+      },
+      "order": 201070023,
+      "type": "text"
+    },
+    "paper_map02_research14_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_research14_1",
+      "itemIds": [
+        "nar_paper_map02_research14_1_1"
+      ],
+      "name": {
+        "zh-CN": "陈旧的运行检查日志",
+        "en-US": "Old Operational Inspection Log"
+      },
+      "order": 201073601,
+      "type": "text"
+    },
+    "paper_map02_research14_2": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_research14_2",
+      "itemIds": [
+        "nar_paper_map02_research14_2_1"
+      ],
+      "name": {
+        "zh-CN": "行程记录（二）",
+        "en-US": "Operations Log (2)"
+      },
+      "order": 201073602,
+      "type": "text"
+    },
+    "paper_map02_research14_3": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_research14_3",
+      "itemIds": [
+        "nar_paper_map02_research14_3_1"
+      ],
+      "name": {
+        "zh-CN": "误入者的挣扎",
+        "en-US": "Complaints: Accidental Trespasser"
+      },
+      "order": 201073603,
+      "type": "text"
+    },
+    "paper_map02_research14_4": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_research14_4",
+      "itemIds": [
+        "nar_paper_map02_research14_4_1"
+      ],
+      "name": {
+        "zh-CN": "监测者的抱怨",
+        "en-US": "Complaints: A Data Monitor"
+      },
+      "order": 201073604,
+      "type": "text"
+    },
     "digital_sm1l1m4_1": {
       "categoryId": "digital",
       "firstLvId": "digital_sm1l1m4_1",
@@ -5554,6 +5833,32 @@
       "order": 201053013,
       "type": "text"
     },
+    "digital_map02_17015": {
+      "categoryId": "digital",
+      "firstLvId": "digital_map02_17015",
+      "itemIds": [
+        "nar_digital_map02_17015_1"
+      ],
+      "name": {
+        "zh-CN": "遗留的处理记录",
+        "en-US": "Salvaged Processing Log"
+      },
+      "order": 201070013,
+      "type": "text"
+    },
+    "digital_map02_17017": {
+      "categoryId": "digital",
+      "firstLvId": "digital_map02_17017",
+      "itemIds": [
+        "nar_digital_map02_17017_1"
+      ],
+      "name": {
+        "zh-CN": "一份年代不明的录音记录",
+        "en-US": "Audio Log: Unknown Date"
+      },
+      "order": 201070015,
+      "type": "text"
+    },
     "collection_gm01m17": {
       "categoryId": "collection",
       "firstLvId": "collection_gm01m17",
@@ -5912,6 +6217,123 @@
         "en-US": "Old Roots, New Shoots"
       },
       "order": 201060018,
+      "type": "text"
+    },
+    "collection_map02_17028": {
+      "categoryId": "collection",
+      "firstLvId": "collection_map02_17028",
+      "itemIds": [
+        "nar_collection_map02_17028_1"
+      ],
+      "name": {
+        "zh-CN": "“不可能的合唱”",
+        "en-US": "\"The Impossible Chorus\""
+      },
+      "order": 201070001,
+      "type": "text"
+    },
+    "collection_map02_17029": {
+      "categoryId": "collection",
+      "firstLvId": "collection_map02_17029",
+      "itemIds": [
+        "nar_collection_map02_17029_1"
+      ],
+      "name": {
+        "zh-CN": "“疯狂挑战”",
+        "en-US": "\"The Crazy Challenge\""
+      },
+      "order": 201070002,
+      "type": "text"
+    },
+    "collection_map02_17030": {
+      "categoryId": "collection",
+      "firstLvId": "collection_map02_17030",
+      "itemIds": [
+        "nar_collection_map02_17030_1"
+      ],
+      "name": {
+        "zh-CN": "“神秘嘉宾”",
+        "en-US": "\"The Mysterious Guest\""
+      },
+      "order": 201070003,
+      "type": "text"
+    },
+    "collection_map02_17031": {
+      "categoryId": "collection",
+      "firstLvId": "collection_map02_17031",
+      "itemIds": [
+        "nar_collection_map02_17031_1"
+      ],
+      "name": {
+        "zh-CN": "“宿醉如泥”",
+        "en-US": "\"Super Hangover\""
+      },
+      "order": 201070004,
+      "type": "text"
+    },
+    "collection_map02_17032": {
+      "categoryId": "collection",
+      "firstLvId": "collection_map02_17032",
+      "itemIds": [
+        "nar_collection_map02_17032_1"
+      ],
+      "name": {
+        "zh-CN": "“胜利纪念”",
+        "en-US": "\"A Victory to Remember\""
+      },
+      "order": 201070005,
+      "type": "text"
+    },
+    "collection_map02_17033": {
+      "categoryId": "collection",
+      "firstLvId": "collection_map02_17033",
+      "itemIds": [
+        "nar_collection_map02_17033_1"
+      ],
+      "name": {
+        "zh-CN": "“力量对决”",
+        "en-US": "\"Contest of Power\""
+      },
+      "order": 201070006,
+      "type": "text"
+    },
+    "collection_map02_17025": {
+      "categoryId": "collection",
+      "firstLvId": "collection_map02_17025",
+      "itemIds": [
+        "nar_collection_map02_17025_1"
+      ],
+      "name": {
+        "zh-CN": "小刻的作战计划",
+        "en-US": "Kay's Battle Plan"
+      },
+      "order": 201070024,
+      "type": "text"
+    },
+    "collection_map02_17026": {
+      "categoryId": "collection",
+      "firstLvId": "collection_map02_17026",
+      "itemIds": [
+        "nar_collection_map02_17026_1"
+      ],
+      "name": {
+        "zh-CN": "分享时刻",
+        "en-US": "A moment to share"
+      },
+      "order": 201070025,
+      "type": "text"
+    },
+    "collection_map02_17027": {
+      "categoryId": "collection",
+      "firstLvId": "collection_map02_17027",
+      "itemIds": [
+        "nar_collection_map02_17027_1"
+      ],
+      "name": {
+        "zh-CN": "小刻的塔卫二冒险",
+        "en-US": "Kay's Adventure of Talos-II"
+      },
+      "order": 201070026,
       "type": "text"
     },
     "document_v0d8_1": {
@@ -6707,6 +7129,19 @@
       "order": 1060002,
       "type": "document"
     },
+    "document_v1d7_1": {
+      "categoryId": "document",
+      "firstLvId": "document_v1d7_1",
+      "itemIds": [
+        "nar_document_v1d7_1_1"
+      ],
+      "name": {
+        "zh-CN": "杜-舒比纳大坝",
+        "en-US": "Du-Shubina Dam"
+      },
+      "order": 1070001,
+      "type": "document"
+    },
     "report_map01_research1_17": {
       "categoryId": "report",
       "firstLvId": "report_map01_research1_17",
@@ -6952,6 +7387,19 @@
         "en-US": "IR: Apparition Behavior"
       },
       "order": 201062805,
+      "type": "document"
+    },
+    "report_map02_research14_5": {
+      "categoryId": "report",
+      "firstLvId": "report_map02_research14_5",
+      "itemIds": [
+        "nar_report_map02_research14_5_1"
+      ],
+      "name": {
+        "zh-CN": "有关杜-舒比纳大坝建设细节的调查报告",
+        "en-US": "IR: Construction of the Du-Shubina Dam"
+      },
+      "order": 201073605,
       "type": "document"
     }
   },
@@ -12094,6 +12542,291 @@
       },
       "type": "text"
     },
+    "nar_paper_map02_17009_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_17009",
+      "id": "nar_paper_map02_17009_1",
+      "name": {
+        "zh-CN": "行程记录（一）",
+        "en-US": "Operations Log (1)"
+      },
+      "order": 1,
+      "title": {
+        "zh-CN": "行程记录（一）",
+        "en-US": "Operations Log (1)"
+      },
+      "type": "text"
+    },
+    "nar_paper_map02_17010_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_17010",
+      "id": "nar_paper_map02_17010_1",
+      "name": {
+        "zh-CN": "有关甚大裂隙的陈旧记录",
+        "en-US": "Old Log: About the Very Large Rift"
+      },
+      "order": 1,
+      "title": {
+        "zh-CN": "有关甚大裂隙的陈旧记录",
+        "en-US": "Old Log: About the Very Large Rift"
+      },
+      "type": "text"
+    },
+    "nar_paper_map02_17011_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_17011",
+      "id": "nar_paper_map02_17011_1",
+      "name": {
+        "zh-CN": "误入者的留言",
+        "en-US": "Memo: Unintentional Trespasser"
+      },
+      "order": 1,
+      "title": {
+        "zh-CN": "误入者的留言",
+        "en-US": "Memo: Unintentional Trespasser"
+      },
+      "type": "text"
+    },
+    "nar_paper_map02_17012_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_17012",
+      "id": "nar_paper_map02_17012_1",
+      "name": {
+        "zh-CN": "行程记录（三）",
+        "en-US": "Operations Log (3)"
+      },
+      "order": 1,
+      "title": {
+        "zh-CN": "行程记录（三）",
+        "en-US": "Operations Log (3)"
+      },
+      "type": "text"
+    },
+    "nar_paper_map02_17013_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_17013",
+      "id": "nar_paper_map02_17013_1",
+      "name": {
+        "zh-CN": "E21实验记录",
+        "en-US": "E21 Test Log"
+      },
+      "order": 1,
+      "title": {
+        "zh-CN": "E21实验记录",
+        "en-US": "E21 Test Log"
+      },
+      "type": "text"
+    },
+    "nar_paper_map02_17014_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_17014",
+      "id": "nar_paper_map02_17014_1",
+      "name": {
+        "zh-CN": "各类蘑菇的培育记录",
+        "en-US": "Fungiculture Log: By Species"
+      },
+      "order": 1,
+      "title": {
+        "zh-CN": "各类蘑菇的培育记录",
+        "en-US": "Fungiculture Log: By Species"
+      },
+      "type": "text"
+    },
+    "nar_paper_map02_17016_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_17016",
+      "id": "nar_paper_map02_17016_1",
+      "name": {
+        "zh-CN": "《实验β区育种与制肥手册（节选）》",
+        "en-US": "Manual: Test Zone β Selective Breeding & Fertilizer Prep (Excerpt)"
+      },
+      "order": 1,
+      "title": {
+        "zh-CN": "《实验β区育种与制肥手册（节选）》",
+        "en-US": "Manual: Test Zone β Selective Breeding & Fertilizer Prep (Excerpt)"
+      },
+      "type": "text"
+    },
+    "nar_paper_map02_17018_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_17018",
+      "id": "nar_paper_map02_17018_1",
+      "name": {
+        "zh-CN": "未署名的手记（二）",
+        "en-US": "Written Notes: Unsigned (2)"
+      },
+      "order": 1,
+      "title": {
+        "zh-CN": "未署名的手记（二）",
+        "en-US": "Written Notes: Unsigned (2)"
+      },
+      "type": "text"
+    },
+    "nar_paper_map02_17006_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_17006",
+      "id": "nar_paper_map02_17006_1",
+      "name": {
+        "zh-CN": "《试验层紧急情况处理手册》",
+        "en-US": "Testing Floor Emergency Response Manual"
+      },
+      "order": 1,
+      "title": {
+        "zh-CN": "《试验层紧急情况处理手册》",
+        "en-US": "Testing Floor Emergency Response Manual"
+      },
+      "type": "text"
+    },
+    "nar_paper_map02_17019_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_17019",
+      "id": "nar_paper_map02_17019_1",
+      "name": {
+        "zh-CN": "发黄的内部通报文件",
+        "en-US": "Internal Communique (Slightly Discolored)"
+      },
+      "order": 1,
+      "title": {
+        "zh-CN": "发黄的内部通报文件",
+        "en-US": "Internal Communique (Slightly Discolored)"
+      },
+      "type": "text"
+    },
+    "nar_paper_map02_17020_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_17020",
+      "id": "nar_paper_map02_17020_1",
+      "name": {
+        "zh-CN": "一份手写的工作日志",
+        "en-US": "Handwritten Work Log"
+      },
+      "order": 1,
+      "title": {
+        "zh-CN": "一份手写的工作日志",
+        "en-US": "Handwritten Work Log"
+      },
+      "type": "text"
+    },
+    "nar_paper_map02_17021_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_17021",
+      "id": "nar_paper_map02_17021_1",
+      "name": {
+        "zh-CN": "未署名的手记（一）",
+        "en-US": "Written Notes: Unsigned (1)"
+      },
+      "order": 1,
+      "title": {
+        "zh-CN": "未署名的手记（一）",
+        "en-US": "Written Notes: Unsigned (1)"
+      },
+      "type": "text"
+    },
+    "nar_paper_map02_17022_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_17022",
+      "id": "nar_paper_map02_17022_1",
+      "name": {
+        "zh-CN": "关于种植试验场L329特殊事件的处理方案",
+        "en-US": "Proposal for Handling the Incident of Test Farm L329"
+      },
+      "order": 1,
+      "title": {
+        "zh-CN": "关于种植试验场L329特殊事件的处理方案",
+        "en-US": "Proposal for Handling the Incident of Test Farm L329"
+      },
+      "type": "text"
+    },
+    "nar_paper_map02_17023_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_17023",
+      "id": "nar_paper_map02_17023_1",
+      "name": {
+        "zh-CN": "关于特殊实验肥料HF31924075的最终处理报告",
+        "en-US": "Final Treatment Report: Special Prototype Fertilizer HF31924075"
+      },
+      "order": 1,
+      "title": {
+        "zh-CN": "关于特殊实验肥料HF31924075的最终处理报告",
+        "en-US": "Final Treatment Report: Special Prototype Fertilizer HF31924075"
+      },
+      "type": "text"
+    },
+    "nar_paper_map02_17024_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_17024",
+      "id": "nar_paper_map02_17024_1",
+      "name": {
+        "zh-CN": "手记的残页",
+        "en-US": "Torn Page: Handwritten Notes"
+      },
+      "order": 1,
+      "title": {
+        "zh-CN": "手记的残页",
+        "en-US": "Torn Page: Handwritten Notes"
+      },
+      "type": "text"
+    },
+    "nar_paper_map02_research14_1_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_research14_1",
+      "id": "nar_paper_map02_research14_1_1",
+      "name": {
+        "zh-CN": "陈旧的运行检查日志",
+        "en-US": "Old Operational Inspection Log"
+      },
+      "order": 1,
+      "title": {
+        "zh-CN": "陈旧的运行检查日志",
+        "en-US": "Old Operational Inspection Log"
+      },
+      "type": "text"
+    },
+    "nar_paper_map02_research14_2_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_research14_2",
+      "id": "nar_paper_map02_research14_2_1",
+      "name": {
+        "zh-CN": "行程记录（二）",
+        "en-US": "Operations Log (2)"
+      },
+      "order": 1,
+      "title": {
+        "zh-CN": "行程记录（二）",
+        "en-US": "Operations Log (2)"
+      },
+      "type": "text"
+    },
+    "nar_paper_map02_research14_3_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_research14_3",
+      "id": "nar_paper_map02_research14_3_1",
+      "name": {
+        "zh-CN": "误入者的挣扎",
+        "en-US": "Complaints: Accidental Trespasser"
+      },
+      "order": 1,
+      "title": {
+        "zh-CN": "误入者的挣扎",
+        "en-US": "Complaints: Accidental Trespasser"
+      },
+      "type": "text"
+    },
+    "nar_paper_map02_research14_4_1": {
+      "categoryId": "paper",
+      "firstLvId": "paper_map02_research14_4",
+      "id": "nar_paper_map02_research14_4_1",
+      "name": {
+        "zh-CN": "监测者的抱怨",
+        "en-US": "Complaints: A Data Monitor"
+      },
+      "order": 1,
+      "title": {
+        "zh-CN": "监测者的抱怨",
+        "en-US": "Complaints: A Data Monitor"
+      },
+      "type": "text"
+    },
     "nar_sm1l1m4_1": {
       "categoryId": "digital",
       "firstLvId": "digital_sm1l1m4_1",
@@ -13414,6 +14147,36 @@
       },
       "type": "text"
     },
+    "nar_digital_map02_17015_1": {
+      "categoryId": "digital",
+      "firstLvId": "digital_map02_17015",
+      "id": "nar_digital_map02_17015_1",
+      "name": {
+        "zh-CN": "遗留的处理记录",
+        "en-US": "Salvaged Processing Log"
+      },
+      "order": 1,
+      "title": {
+        "zh-CN": "遗留的处理记录",
+        "en-US": "Salvaged Processing Log"
+      },
+      "type": "text"
+    },
+    "nar_digital_map02_17017_1": {
+      "categoryId": "digital",
+      "firstLvId": "digital_map02_17017",
+      "id": "nar_digital_map02_17017_1",
+      "name": {
+        "zh-CN": "一份年代不明的录音记录",
+        "en-US": "Audio Log: Unknown Date"
+      },
+      "order": 1,
+      "title": {
+        "zh-CN": "一份年代不明的录音记录",
+        "en-US": "Audio Log: Unknown Date"
+      },
+      "type": "text"
+    },
     "nar_col_gm01m17": {
       "categoryId": "collection",
       "firstLvId": "collection_gm01m17",
@@ -13801,6 +14564,141 @@
       "title": {
         "zh-CN": "旧时新枝",
         "en-US": "Old Roots, New Shoots"
+      },
+      "type": "text"
+    },
+    "nar_collection_map02_17028_1": {
+      "categoryId": "collection",
+      "firstLvId": "collection_map02_17028",
+      "id": "nar_collection_map02_17028_1",
+      "name": {
+        "zh-CN": "“不可能的合唱”",
+        "en-US": "\"The Impossible Chorus\""
+      },
+      "order": 1,
+      "title": {
+        "zh-CN": "“不可能的合唱”",
+        "en-US": "\"The Impossible Chorus\""
+      },
+      "type": "text"
+    },
+    "nar_collection_map02_17029_1": {
+      "categoryId": "collection",
+      "firstLvId": "collection_map02_17029",
+      "id": "nar_collection_map02_17029_1",
+      "name": {
+        "zh-CN": "“疯狂挑战”",
+        "en-US": "\"The Crazy Challenge\""
+      },
+      "order": 1,
+      "title": {
+        "zh-CN": "“疯狂挑战”",
+        "en-US": "\"The Crazy Challenge\""
+      },
+      "type": "text"
+    },
+    "nar_collection_map02_17030_1": {
+      "categoryId": "collection",
+      "firstLvId": "collection_map02_17030",
+      "id": "nar_collection_map02_17030_1",
+      "name": {
+        "zh-CN": "“神秘嘉宾”",
+        "en-US": "\"The Mysterious Guest\""
+      },
+      "order": 1,
+      "title": {
+        "zh-CN": "“神秘嘉宾”",
+        "en-US": "\"The Mysterious Guest\""
+      },
+      "type": "text"
+    },
+    "nar_collection_map02_17031_1": {
+      "categoryId": "collection",
+      "firstLvId": "collection_map02_17031",
+      "id": "nar_collection_map02_17031_1",
+      "name": {
+        "zh-CN": "“宿醉如泥”",
+        "en-US": "\"Super Hangover\""
+      },
+      "order": 1,
+      "title": {
+        "zh-CN": "“宿醉如泥”",
+        "en-US": "\"Super Hangover\""
+      },
+      "type": "text"
+    },
+    "nar_collection_map02_17032_1": {
+      "categoryId": "collection",
+      "firstLvId": "collection_map02_17032",
+      "id": "nar_collection_map02_17032_1",
+      "name": {
+        "zh-CN": "“胜利纪念”",
+        "en-US": "\"A Victory to Remember\""
+      },
+      "order": 1,
+      "title": {
+        "zh-CN": "“胜利纪念”",
+        "en-US": "\"A Victory to Remember\""
+      },
+      "type": "text"
+    },
+    "nar_collection_map02_17033_1": {
+      "categoryId": "collection",
+      "firstLvId": "collection_map02_17033",
+      "id": "nar_collection_map02_17033_1",
+      "name": {
+        "zh-CN": "“力量对决”",
+        "en-US": "\"Contest of Power\""
+      },
+      "order": 1,
+      "title": {
+        "zh-CN": "“力量对决”",
+        "en-US": "\"Contest of Power\""
+      },
+      "type": "text"
+    },
+    "nar_collection_map02_17025_1": {
+      "categoryId": "collection",
+      "firstLvId": "collection_map02_17025",
+      "id": "nar_collection_map02_17025_1",
+      "name": {
+        "zh-CN": "小刻的作战计划",
+        "en-US": "Kay's Battle Plan"
+      },
+      "order": 1,
+      "title": {
+        "zh-CN": "小刻的作战计划",
+        "en-US": "Kay's Battle Plan"
+      },
+      "type": "text"
+    },
+    "nar_collection_map02_17026_1": {
+      "categoryId": "collection",
+      "firstLvId": "collection_map02_17026",
+      "id": "nar_collection_map02_17026_1",
+      "name": {
+        "zh-CN": "分享时刻",
+        "en-US": "A moment to share"
+      },
+      "order": 1,
+      "title": {
+        "zh-CN": "分享时刻",
+        "en-US": "A moment to share"
+      },
+      "type": "text"
+    },
+    "nar_collection_map02_17027_1": {
+      "categoryId": "collection",
+      "firstLvId": "collection_map02_17027",
+      "id": "nar_collection_map02_17027_1",
+      "name": {
+        "zh-CN": "小刻的塔卫二冒险",
+        "en-US": "Kay's Adventure of Talos-II"
+      },
+      "order": 1,
+      "title": {
+        "zh-CN": "小刻的塔卫二冒险",
+        "en-US": "Kay's Adventure of Talos-II"
       },
       "type": "text"
     },
@@ -14719,6 +15617,21 @@
       },
       "type": "document"
     },
+    "nar_document_v1d7_1_1": {
+      "categoryId": "document",
+      "firstLvId": "document_v1d7_1",
+      "id": "nar_document_v1d7_1_1",
+      "name": {
+        "zh-CN": "杜-舒比纳大坝",
+        "en-US": "Du-Shubina Dam"
+      },
+      "order": 1,
+      "title": {
+        "zh-CN": "杜-舒比纳大坝",
+        "en-US": "Du-Shubina Dam"
+      },
+      "type": "document"
+    },
     "nar_report_map01_research1_17_1": {
       "categoryId": "report",
       "firstLvId": "report_map01_research1_17",
@@ -15001,6 +15914,21 @@
       "title": {
         "zh-CN": "有关化物的行为方式的调查报告",
         "en-US": "IR: Apparition Behavior"
+      },
+      "type": "document"
+    },
+    "nar_report_map02_research14_5_1": {
+      "categoryId": "report",
+      "firstLvId": "report_map02_research14_5",
+      "id": "nar_report_map02_research14_5_1",
+      "name": {
+        "zh-CN": "有关杜-舒比纳大坝建设细节的调查报告",
+        "en-US": "IR: Construction of the Du-Shubina Dam"
+      },
+      "order": 1,
+      "title": {
+        "zh-CN": "有关杜-舒比纳大坝建设细节的调查报告",
+        "en-US": "IR: Construction of the Du-Shubina Dam"
       },
       "type": "document"
     }
