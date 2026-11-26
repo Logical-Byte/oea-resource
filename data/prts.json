@@ -12285,6 +12285,10 @@
         "zh-CN": "误入者的留言",
         "en-US": "Memo: An Unintentional Trespasser"
       },
+      "contentPreview": {
+        "zh-CN": "这村庄……有些奇妙……",
+        "en-US": "This village ... looks a little strange..."
+      },
       "type": "text"
     },
     "nar_paper_map02_16014_1": {
@@ -12584,6 +12588,10 @@
       "title": {
         "zh-CN": "误入者的留言",
         "en-US": "Memo: Unintentional Trespasser"
+      },
+      "contentPreview": {
+        "zh-CN": "那些侵蚀……我以为我要死了。",
+        "en-US": "The Blight... I thought I was gonna die."
       },
       "type": "text"
     },
